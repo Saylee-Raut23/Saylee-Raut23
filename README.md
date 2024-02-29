@@ -1,3 +1,4 @@
+![logo](https://github.com/Saylee-Raut23/Saylee-Raut23/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Saylee Raut</h1>
 <h3 align="center">Aspiring Software Tester</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
