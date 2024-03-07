@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sayleeraut111@gmail.com**
 
-- 📄 Resume [Saylee_Raut_QA_Tester_Resume.pdf](Saylee_Raut_QA_Tester_Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sayleeraut23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sayleeraut23" height="30" width="40" /></a>
