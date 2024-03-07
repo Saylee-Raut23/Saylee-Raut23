@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Automation project**
 
-- 🌱 I’m currently learning **TOSCA Automation**
+- 🌱 I’m currently learning **API Testing**
 
 - 📫 How to reach me **sayleeraut111@gmail.com**
 
